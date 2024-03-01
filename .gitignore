@@ -2,3 +2,5 @@ secure.json
 *.lock
 *.ini
 *.json
+.idea/
+__pycache__/
